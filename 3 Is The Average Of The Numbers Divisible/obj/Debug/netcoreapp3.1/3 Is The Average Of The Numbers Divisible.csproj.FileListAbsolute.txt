@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\bin\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.exe
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\bin\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.deps.json
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\bin\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\bin\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\bin\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.dll
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\bin\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.pdb
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\obj\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\obj\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\obj\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\obj\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\obj\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\obj\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.dll
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\obj\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.pdb
+C:\Users\ASUS\Desktop\C# intro\3 Is The Average Of The Numbers Divisible\3 Is The Average Of The Numbers Divisible\obj\Debug\netcoreapp3.1\3 Is The Average Of The Numbers Divisible.genruntimeconfig.cache
